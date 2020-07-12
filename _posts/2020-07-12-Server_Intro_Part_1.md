@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Server Adventures: Part 1 - Introduction
+title: Server Adventures Part 1 - Introduction
 ---
 
 I want to setup a home server!
