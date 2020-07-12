@@ -6,7 +6,7 @@
 name: Batuhan Başerdem
 
 # Short bio or description (displayed in the header)
-description: Personal Blog of a tech-enthusiast/physicist.
+description: Personal blog of a tech-enthusiast/physicist.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/19315586?s=460&u=fd90ee2ce478b6e63335b6a4fd0d16e165c88e06&v=4
@@ -18,17 +18,17 @@ avatar: https://avatars2.githubusercontent.com/u/19315586?s=460&u=fd90ee2ce478b6
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: baserdem.batuhan@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: bbaserdem
   instagram:
-  linkedin:
+  linkedin: bbaserdem
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: silverblueph
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCPq76VqVC9JA2ElNoTDmbhA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
