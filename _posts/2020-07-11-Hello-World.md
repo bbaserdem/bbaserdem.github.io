@@ -89,4 +89,4 @@ on documenting how I use Arch almost as my personal meta distro.
 
 Anyways, I hope you enjoy the content to come.
 
-(Excuse my spelling/grammar errors; 
+(Excuse my spelling/grammar errors; forgot to turn the spellchecker in neovim.)
