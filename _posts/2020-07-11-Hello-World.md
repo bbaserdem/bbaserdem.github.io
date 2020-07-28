@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I'm starting a blog!
+category: life
 ---
 
 I have arrived to the blogosphere!

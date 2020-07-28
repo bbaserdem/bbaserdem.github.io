@@ -1,18 +1,11 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
-name: Batuhan Başerdem
+name: Batu's Blog
 
 # Short bio or description (displayed in the header)
-description: Personal blog of a tech-enthusiast/physicist.
+description: Personal blog on a variety of topics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/gPEEHfZ.png
-#
-# Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -30,7 +23,6 @@ footer-links:
   youtube: channel/UCPq76VqVC9JA2ElNoTDmbhA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -40,18 +32,15 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://bbaserdem.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://github.com/bbaserdem/bbaserdem.github.io"
 
-#
 # !! You don't need to change any of the configuration flags below !!
-#
-
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -82,4 +71,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - README_JEKYLL.md
   - CNAME

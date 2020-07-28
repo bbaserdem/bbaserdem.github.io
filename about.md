@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Couple tidbits about me. (Hire me when I graduate plz.)
+
 # Education
 
 I did my undergrad in Bosphorus University in Istanbul, Turkey.
@@ -60,6 +62,7 @@ looking for a job (or an academic position) within the fields;
 ## General Life Interests (that are appropriate for public record)
 
 * Hiking
+* Astronomy
 * Open source software
 * Listening to music
 * Saving the world, sitting at a rakı table.
