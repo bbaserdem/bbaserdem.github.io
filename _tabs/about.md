@@ -39,5 +39,4 @@ I'm an avid music listener, and non-standart tunings with odd time signatures fa
 * AI Fellowship at Monastic Academy for the Preservation of Life on Earth.
   ([MAPLE](https://www.monasticacademy.org/))
 * Was an AI Challenger, now AI Champion, at [Gauntel AI](https://www.gauntletai.com/) Cohort 2.
-* Currently employed at [SkyFi](https://skyfi.com/) as a Software Engineer.
 
